@@ -4,7 +4,7 @@
   graph:
   - node: start
     edges:
-    - to: crategenericsteel
+    - to: holocrategeneric
       steps:
       - material: Steel
         amount: 0
